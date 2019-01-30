@@ -31,11 +31,6 @@
         <div class="col-sm-8 block1">col-sm-8 12</div>
         <div class="col-sm-4 block3">col-sm-4</div>
     </div>
-    <div class="row">
-        <div class="col-sm block3">col-sm</div>
-        <div class="col-sm block2">col-sm</div>
-        <div class="col-sm block1">col-sm</div>
-    </div>
 </div>
 
 
